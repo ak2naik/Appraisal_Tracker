@@ -1,0 +1,17 @@
+
+ABOUT THE PROJECT:
+
+
+This project is aimed at developing an Appraisal Tracker that is of importance to either an organization or a college. 
+This Appraisal Tracker system is used to track the performance of an individual. 
+An individual’s performance is rated by himself and his superior in the organization. 
+Performance appraisal is the process of obtaining, analyzing and recording information about the relative worth of an employee. 
+The focus of the performance appraisal is measuring and improving the actual performance of the employee and also the future potential 
+of the employee. 
+The tasks for the next 6 months are set by the superior. 
+The performance rating is done based on several attributes (like the timeliness, quality of work, communication skills etc).
+The system consists of two main components:
+•	A front end which provides access to the application function to the end user
+•	A site administration end which provides a management interface for 
+	application administrators to add, delete, and modify records, settings, 
+	and preferences in the system as well generate reports from the database.

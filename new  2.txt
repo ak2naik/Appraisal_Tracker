@@ -1,0 +1,15 @@
+	//if (mysql_num_rows(queryMysql($query)))
+//{
+		//queryMysql("UPDATE ratings SET efficiency='$efficiency' where name='$user'");
+	//}
+	//else
+	//{
+		//$query = "update ratings set efficiency='$efficiency'";
+		//queryMysql($query);
+	//}
+	//queryMysql("update ratings set ratedby='$user' where name='$user'");
+	//queryMysql("update ratings set timeliness='$time' where name='$nameofemp'");
+	//queryMysql("update ratings set discipline='$disc' where name='$nameofemp'");
+	//$query="select efficiency from ratings where name='$user'";
+//queryMysql("update ratings SET efficiency='$efficiency' where name='$user' ");
+//$query = "SELECT * FROM ratings WHERE name='$user'";

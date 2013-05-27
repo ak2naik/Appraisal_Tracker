@@ -1,0 +1,19 @@
+Steps-
+
+1. create databse with name 'miniproject' int Mysql server.
+
+
+
+
+2. Create table Users and enter name,password other details in the Mysql server.
+   For ease I have given the commands:
+ 
+ 
+ -> create table users(nameofemp varchar(32), password varchar(32), position varchar(32), id varchar(32),
+						about varchar(132), email_id varchar(32));
+ -> insert into uers values('$Admin','admin','Administrator','0001',NULL,'admin@xyz.com');
+ 
+ 
+ 
+ 
+3. Now open 'login.php' in local web! 
